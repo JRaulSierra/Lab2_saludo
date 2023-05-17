@@ -1,0 +1,6 @@
+/home/is4tech/Universidad c#/Lab#2/Lab_2/Lab_2/bin/Debug/Lab_2.exe
+/home/is4tech/Universidad c#/Lab#2/Lab_2/Lab_2/bin/Debug/Lab_2.pdb
+/home/is4tech/Universidad c#/Lab#2/Lab_2/Lab_2/obj/x86/Debug/Lab_2.csproj.AssemblyReference.cache
+/home/is4tech/Universidad c#/Lab#2/Lab_2/Lab_2/obj/x86/Debug/Lab_2.csproj.CoreCompileInputs.cache
+/home/is4tech/Universidad c#/Lab#2/Lab_2/Lab_2/obj/x86/Debug/Lab_2.exe
+/home/is4tech/Universidad c#/Lab#2/Lab_2/Lab_2/obj/x86/Debug/Lab_2.pdb
